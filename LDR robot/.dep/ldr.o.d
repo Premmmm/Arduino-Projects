@@ -1,0 +1,1 @@
+ldr.o: ldr.c

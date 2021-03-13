@@ -1,0 +1,1 @@
+ldrpot.o: ldrpot.c
